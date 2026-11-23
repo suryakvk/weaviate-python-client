@@ -1,0 +1,38 @@
+weaviate/collections/batch/grpc_batch_delete.py
+  s_626021cbc7dd9d::t_8b217d032df03c 40,55,63
+integration/test_collection_batch_delete.py
+  s_626021cbc7dd9d::t_55445a0fbb99b7 659-684
+weaviate/collections/classes/batch.py
+  s_626021cbc7dd9d::t_628eafab5c14bb 342,347-348
+  s_626021cbc7dd9d::t_79d12de8b477ba 338-341,343-346,349,355
+mock_tests/test_batch_delete.py
+  s_626021cbc7dd9d::t_eb0abd051ae7af 1-111
+weaviate/proto/v1/v4216/v1/batch_delete_pb2.py
+  s_626021cbc7dd9d::t_a60ef88ce6a78c 17,28-30
+weaviate/proto/v1/v4216/v1/batch_delete_pb2.pyi
+  s_626021cbc7dd9d::t_663e09105c208b 26,32,38-39
+weaviate/proto/v1/v5261/v1/batch_delete_pb2.py
+  s_626021cbc7dd9d::t_89669c5edb0d29 18,29-31
+weaviate/proto/v1/v5261/v1/batch_delete_pb2.pyi
+  s_626021cbc7dd9d::t_27c197f576c82d 26,32,38-39
+weaviate/proto/v1/v6300/v1/batch_delete_pb2.py
+  s_626021cbc7dd9d::t_665a0003a248a1 28,39-41
+weaviate/proto/v1/v6300/v1/batch_delete_pb2.pyi
+  s_626021cbc7dd9d::t_e9746b8109e339 27,33,39-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a5562401bd474f198a2a6aca370a0b3d08250fc4",
+  "prompts": {},
+  "sessions": {
+    "s_626021cbc7dd9d": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "3c25bc38-250a-423f-86f3-78eb4d2ffd4a",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Surya Kotikalapudi <44856649+suryakvk@users.noreply.github.com>"
+    }
+  }
+}
